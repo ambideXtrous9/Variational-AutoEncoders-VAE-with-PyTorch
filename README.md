@@ -18,6 +18,8 @@ Variational AutoEncoders (VAE) with PyTorch
 [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 
 
+[Evidence Lower Bound (ELBO) - CLEARLY EXPLAINED!](https://www.youtube.com/watch?v=IXsA5Rpp25w&ab_channel=KapilSachdeva)
+
 [Variational Autoencoder (VAE) — PyTorch Tutorial](https://medium.com/@rekalantar/variational-auto-encoder-vae-pytorch-tutorial-dce2d2fe0f5f)
 
 
