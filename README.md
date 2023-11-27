@@ -27,3 +27,5 @@ Variational AutoEncoders (VAE) with PyTorch
 [VAE implementation in PyTorch Lightning](https://colab.research.google.com/drive/1_yGmk8ahWhDs23U4mpplBFa-39fsEJoT?usp=sharing)
 
 [VAE implementation in PyTorch on MNIST](https://avandekleut.github.io/vae/)
+
+[Vanilla VAE](https://github.com/AntixK/PyTorch-VAE/blob/master/models/vanilla_vae.py)
