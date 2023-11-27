@@ -16,3 +16,5 @@ Variational AutoEncoders (VAE) with PyTorch
 
 [Variational Autoencoder Demystified With PyTorch Implementation](https://towardsdatascience.com/variational-autoencoder-demystified-with-pytorch-implementation-3a06bee395ed)
 
+
+[VAE implementation in PyTorch Lightning](https://colab.research.google.com/drive/1_yGmk8ahWhDs23U4mpplBFa-39fsEJoT?usp=sharing)
